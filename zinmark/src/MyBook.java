@@ -3,7 +3,7 @@ import java.util.Comparator;
 
 class MyBook implements Comparable<MyBook>{
     //new new new new new new new 
-    private int book_id;
+    private int book_id;                //bookid
     private String my_page;
     private String book_name;
     private int number_reference_book;
